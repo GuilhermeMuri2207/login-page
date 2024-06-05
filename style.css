@@ -27,6 +27,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100vh;
+  height: 100vh;
 }
 
 .section-image {
@@ -38,8 +40,8 @@ body {
 }
 
 .img-container {
-  width: 1000px;
-  height: 1000px;
+  width: 100vh;
+  height: 100vh;
 }
 
 .login {
